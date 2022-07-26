@@ -13,5 +13,5 @@ PRIMARY KEY(id));
 
 
 INSERT INTO usuaris VALUES(1,'Josep Escoda','josep','password');
-INSERT INTO usuaris VALUES(1,'Profe MP08','profe','password');
+INSERT INTO usuaris VALUES(2,'Profe MP08','profe','password');
 
